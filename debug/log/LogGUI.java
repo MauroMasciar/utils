@@ -1,4 +1,4 @@
-package debug;
+package log;
 
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;

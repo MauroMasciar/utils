@@ -1,4 +1,4 @@
-package debug;
+package log;
 
 import java.io.FileWriter;
 import java.io.PrintWriter;
